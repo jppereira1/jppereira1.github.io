@@ -57,7 +57,7 @@ plugins:
 author:
   name   : "João Pedro"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Aficcionado por tecnologia. Engenheiro de formação, hoje entregue valor aos meu clientes através de soluções de análise de dados, automação, engenharia de dados e IA"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -68,9 +68,6 @@ author:
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
