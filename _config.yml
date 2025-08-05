@@ -56,7 +56,7 @@ plugins:
 
 author:
   name   : "João Pedro"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/bio_foto.jpeg"
   bio    : "Aficcionado por tecnologia. Engenheiro de formação, hoje entregue valor aos meu clientes através de soluções de análise de dados, automação, engenharia de dados e IA"
   links:
     - label: "GitHub"
